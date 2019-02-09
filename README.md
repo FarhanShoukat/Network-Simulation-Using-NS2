@@ -2,7 +2,7 @@
 
 ## Network Design
 <p align="middle">
-  <img src="../master/screenshot.png"/>
+  <img src="../master/screenshot.PNS"/>
 </p>
 
 ## How to run
